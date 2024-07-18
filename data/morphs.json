@@ -83,7 +83,16 @@
       "Sonar",
       "Swim Bladder"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Cryogenic Protection",
       "Oxygen Reserve",
@@ -143,7 +152,16 @@
       "Vacuum Sealing",
       "Wings"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Respirocytes"
     ],
@@ -186,7 +204,12 @@
       "Oxygen Reserve",
       "Prehensile Feet"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Limberness",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -223,7 +246,12 @@
       "Cortical Stack",
       "Mesh Inserts"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Adrenal Surge",
       "Claws",
@@ -284,7 +312,20 @@
       "Swim Bladder",
       "Wings"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Enhanced Behavior (Serenity)",
+        "level": 2
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Oxygen Reserve",
       "T-Ray Emitter"
@@ -547,7 +588,20 @@
       "Optogenetics Module",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Enhanced Behavior (Obedience)",
+        "level": 2
+      },
+      {
+        "name": "Restricted Behavior (Non-Conformity)",
+        "level": 2
+      },
+      {
+        "name": "Timidity",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Popular add-ons include Drug Glands (Retcon) and Neuromodulation"
     ],
@@ -589,7 +643,16 @@
       "Enhanced Vision",
       "Mesh Inserts"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Enhanced Behavior (Aggressiveness)",
+        "level": 2
+      },
+      {
+        "name": "Enhanced Behavior (Cooperation)",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Neurachem",
       "Hardened Skeleton",
@@ -674,7 +737,12 @@
       "Prehensile Feet",
       "Wings"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -713,7 +781,12 @@
       "Grip Pads",
       "Mesh Inserts"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Enhanced Behavior (Patience)",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Adrenal Surge",
       "Skinflex"
@@ -763,7 +836,16 @@
       "Mesh Inserts",
       "Prehensile Feet"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Limberness",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Respirocytes"
     ],
@@ -812,7 +894,16 @@
       "Oxygen Reserve",
       "Vacuum Sealing"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Limberness",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Respirocytes"
     ],
@@ -854,7 +945,16 @@
       "Mesh Inserts",
       "Mnemonics"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Unattractiveness",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -983,7 +1083,16 @@
       "Swim Bladder",
       "T-Ray Emitter"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Chem Sniffer",
       "Digging Claws"
@@ -1027,7 +1136,16 @@
       "Mnemonics",
       "Prehensile Feet"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Drug Glands (Comfurt)",
       "Endocrine Control",
@@ -1159,7 +1277,12 @@
       "Cortical Stack",
       "Mesh Inserts"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Small size"
@@ -1328,7 +1451,12 @@
       "Enhanced Vision",
       "Mesh Inserts"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -1388,7 +1516,20 @@
       "T-Ray Emitter",
       "Vacuum Sealing"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Enhanced Behavior (Introversion)",
+        "level": 2
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Respirocytes",
       "Many have the Limberness trait."
@@ -1485,7 +1626,16 @@
       "Radiation Tolerance",
       "Vacuum Sealing"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -1533,7 +1683,16 @@
       "Sonar",
       "Swim Bladder"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Enhanced Hearing",
       "Enhanced Vision",
@@ -1630,7 +1789,16 @@
       "Refractive Coating",
       "Vacuum Sealing"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Very Large size"
@@ -1681,7 +1849,16 @@
       "Oxygen Reserve",
       "Vacuum Sealing"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Hibernation",
       "Many have the Enhanced Behavior (Introversion",
@@ -1827,7 +2004,16 @@
       "Prehensile Feet",
       "Wings"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Beak/Claw Attack (DV 2d6), Small size"
@@ -1872,7 +2058,24 @@
       "Mesh Inserts",
       "Sonar"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Lack of Manipulators",
+        "level": 1
+      },
+      {
+        "name": "Lack of Smell",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Cyberarms",
       "Extra Limbs"
@@ -1916,7 +2119,16 @@
       "Mesh Inserts",
       "Prehensile Feet"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -1959,7 +2171,24 @@
       "Mesh Inserts",
       "Sonar"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Lack of Manipulators",
+        "level": 1
+      },
+      {
+        "name": "Lack of Smell",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Cyberarms",
       "Extra Limbs"
@@ -2003,7 +2232,16 @@
       "Mesh Inserts",
       "Prehensile Feet"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -2040,7 +2278,12 @@
       "Cortical Stack",
       "Mesh Inserts"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -2091,7 +2334,20 @@
       "Mesh Inserts",
       "Polarization Vision"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Limberness",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "8 prehensile arms, Beak Attack (DV 1d10), Ink Attack (use Athletics, blinding, 5-meter uniform area-effect in water and micrograv)"
@@ -2132,7 +2388,20 @@
       "Mesh Inserts",
       "Prehensile Feet"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Limberness",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Reach (+10)"
@@ -2177,7 +2446,24 @@
       "Mesh Inserts",
       "Sonar"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Lack of Manipulators",
+        "level": 1
+      },
+      {
+        "name": "Lack of Smell",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Cyberarms",
       "Extra Limbs"
@@ -2219,7 +2505,16 @@
       "Cortical Stack",
       "Mesh Inserts"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Many have the Impaired Balance trait."
     ],
@@ -2264,7 +2559,24 @@
       "Mesh Inserts",
       "Sonar"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Lack of Manipulators",
+        "level": 1
+      },
+      {
+        "name": "Lack of Smell",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Cyberarms",
       "Extra Limbs"
@@ -2312,7 +2624,24 @@
       "Mesh Inserts",
       "Sonar"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Lack of Manipulators",
+        "level": 1
+      },
+      {
+        "name": "Lack of Smell",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Cyberarms",
       "Extra Limbs"
@@ -2403,7 +2732,16 @@
       "Oxygen Reserve",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Enhanced Behavior (Attentive)",
+        "level": 2
+      },
+      {
+        "name": "Enhanced Behavior (Protective)",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Enhanced Hearing",
       "Enhanced Vision",
@@ -2460,7 +2798,16 @@
       "Pain Regulator",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Enhanced Behavior (Attentive)",
+        "level": 2
+      },
+      {
+        "name": "Enhanced Behavior (Protective)",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Enhanced Hearing",
       "Enhanced Vision",
@@ -2509,7 +2856,12 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Planned Obsolescence",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -2561,7 +2913,16 @@
       "Puppet Sock",
       "Wings"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Beak/Claw Attack (DV 2d6)"
@@ -2609,7 +2970,16 @@
       "Prehensile Tail",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Bodysculpting",
       "Prehensile Feet",
@@ -2662,7 +3032,16 @@
       "Prehensile Tail",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Bodysculpting",
       "Cyberlimb",
@@ -2719,7 +3098,16 @@
       "Prehensile Tail",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Enhanced Vision",
       "Gliding Membrane",
@@ -2828,7 +3216,20 @@
       "Pressure Adaptation",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Limberness",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "8 prehensile arms",
       "2 prehensile tentacles",
@@ -2883,7 +3284,20 @@
       "Prehensile Feet",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Limberness",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Small size"
@@ -2932,7 +3346,16 @@
       "Puppet Sock",
       "Vacuum Sealing"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Claw Attack (DV 2d10)"
@@ -3034,7 +3457,16 @@
       "Puppet Sock",
       "Wings"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Beak/Claw Attack (DV 2d6)"
@@ -3084,7 +3516,16 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Hardened Skeleton",
       "Muscle Augmentation",
@@ -3326,7 +3767,12 @@
       "Puppet Sock",
       "Vacuum Sealing"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Limberness",
+        "level": 1
+      }
+    ],
     "common_extras": [
       "Grip Pads",
       "Magnetic System",
@@ -3417,7 +3863,20 @@
       "Prehensile Tail",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Limberness",
+        "level": 1
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [
       "Claws",
       "Enhanced Smell",
@@ -3469,7 +3928,16 @@
       "Prehensile Tail",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Small size"
@@ -3514,7 +3982,16 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Non-Human Biochemistry",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Beak/Claw Attack (DV 2d6)"
@@ -3575,7 +4052,12 @@
       "Puppet Sock",
       "Retracting Limbs"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6)"
@@ -3636,7 +4118,12 @@
       "Puppet Sock",
       "Retracting Limbs"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Heavy Frame (Armor 12/10), Large size"
@@ -3677,7 +4164,12 @@
       "Mesh Inserts",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
@@ -3720,7 +4212,16 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Inherent Flaws",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
@@ -3776,7 +4277,12 @@
       "Pressure Adaptation",
       "Sonar"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6), 4 arms, 4 legs"
@@ -3832,7 +4338,12 @@
       "Retracting Limbs",
       "Thermogenic Protection"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Heavy Frame (Armor 12/10), 4 arms"
@@ -3943,7 +4454,12 @@
       "Weapon Mounts (2 static",
       "2 articulated)"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Heavy Frame (Armor 12/10; 18/14 with industrial armor), Large size. Bonuses from Hardened Skeleton already incorporated."
@@ -3998,7 +4514,12 @@
       "Weapon Mounts (2 static",
       "2 articulated)"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Heavy Frame (Armor 12/10; 28/24 with heavy combat armor), Large size. Bonuses from Structural Enhancement already incorporated."
@@ -4048,7 +4569,12 @@
       "Radar",
       "Wings"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4), Small size"
@@ -4111,7 +4637,12 @@
       "Weapon Mounts (3 Articulated",
       "3 Internal Articulated)"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Heavy Frame (Armor 12/10; 28/24 with Heavy Combat Armor), Large size. Bonuses from Structural Enhancement already incorporated."
@@ -4161,7 +4692,12 @@
       "Puppet Sock",
       "Shape Adjusting"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4), Small size"
@@ -4369,7 +4905,12 @@
       "Puppet Sock",
       "Skinlink"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Swarm attack (DV 1d6, ignores armor, blinding), comes with specialized conjurer hive, follows rules for swarms. Conjurer swarms do not affect a flexbot's gestalt Movement Rate; when not disconnected they ride along on other modules."
@@ -4575,7 +5116,12 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
@@ -4621,7 +5167,12 @@
       "Puppet Sock",
       "Synthetic Mask"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6)"
@@ -4673,7 +5224,12 @@
       "Radar",
       "T-Ray Emitter"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
@@ -4718,7 +5274,16 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      },
+      {
+        "name": "Inherent Flaws",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
@@ -4767,7 +5332,12 @@
       "Synthetic Mask",
       "T-Ray Emitter"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6)"
@@ -4820,7 +5390,12 @@
       "Weapon Mount (Internal",
       "Static)"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Heavy Frame (Armor 12/10)"
@@ -4883,7 +5458,12 @@
       "Shape Adjusting",
       "T-Ray Emitter"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4), Small size. Changing mobility systems takes 1d6 mins."
@@ -4950,7 +5530,12 @@
       "Weapon Mounts (2",
       "Internal and Articulated)"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4), Small size. Changing mobility systems takes 1d6 minutes."
@@ -5013,7 +5598,12 @@
       "Shape Adjusting",
       "T-Ray Emitter"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6), Changing mobility systems takes 1d6 minutes."
@@ -5064,7 +5654,16 @@
       "Telescoping Limbs",
       "T-Ray Emitter"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Enhanced Behavior (Patience)",
+        "level": 2
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4), Small size"
@@ -5126,7 +5725,12 @@
       "Retracting Limbs",
       "T-Ray Emitter"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [
       "Healing Vat",
       "Vacsuits"
@@ -5175,7 +5779,12 @@
       "Oozeware",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Armor 4/0, Small size"
@@ -5229,7 +5838,12 @@
       "Prehensile Tail",
       "Wings"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4), Small size"
@@ -5282,7 +5896,12 @@
       "Radar",
       "Wings"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4), Small size"
@@ -5337,7 +5956,12 @@
       "Stealth Coating",
       "Wings"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4), Small size"
@@ -5392,7 +6016,16 @@
       "Weapon Mounts (2",
       "Static)"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Enhanced Behavior (Complacency)",
+        "level": 2
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Heavy Frame (Armor 12/10, 18/14 with industrial armor), Large size, 8 limbs. Bonus from Hardened Skeleton already incorporated."
@@ -5451,7 +6084,12 @@
       "Weapon Mount (2 Static",
       "1 Articulated)"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6), Large size"
@@ -5518,7 +6156,12 @@
       "Weapon Mount (4",
       "Articulated)"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Heavy Frame (Armor 12/10)"
@@ -5576,7 +6219,12 @@
       "Internal",
       "Articulated)"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [
       "Eelware",
       "Enhanced Vision",
@@ -5623,7 +6271,12 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
@@ -5672,7 +6325,12 @@
       "Puppet Sock",
       "Retracting Limbs"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6)"
@@ -5728,7 +6386,12 @@
       "Swarm Shape",
       "Utilimod"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Swarm Attack (DV 1d6, ignores armor, blinding), comes with specialized smart swarm hive. Swarms follow rules for nanoswarm/microswarms."
@@ -5774,7 +6437,12 @@
       "Skinlink",
       "Stress Control"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4), Small size"
@@ -5827,7 +6495,12 @@
       "Puppet Sock",
       "Retracting Limbs"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4), 4 limbs"
@@ -5870,7 +6543,12 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6)"
@@ -5916,7 +6594,12 @@
       "Shape Adjusting",
       "Skinflex"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6)"
@@ -5972,7 +6655,12 @@
       "Retracting Limbs",
       "Thermogenic Protection"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Heavy Frame (Armor 12/10), Large size"
@@ -6026,7 +6714,12 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Swarm Attack (DV 1d6, ignores armor, blinding), comes with specialized swarmanoid hive. Swarms follow rules for nanoswarm/microswarms."
@@ -6082,7 +6775,12 @@
       "Puppet Sock",
       "Radar Absorbent"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Swarm Attack (DV 1d6, ignores armor, blinding), comes with specialized skulker hive. Swarms follow rules for nanoswarm/microswarms."
@@ -6125,7 +6823,12 @@
       "Mnemonics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 1
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
@@ -6176,7 +6879,12 @@
       "Pneumatics",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Medium Frame (Armor 8/6), Large size"
@@ -6229,7 +6937,16 @@
       "Polarization Vision",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      },
+      {
+        "name": "Limberness",
+        "level": 2
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Light Frame (Armor 6/4)"
@@ -6285,7 +7002,12 @@
       "Telescoping Limbs",
       "T-Ray Emitter"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [
       "Electrical Sense",
       "Enhanced Hearing",
@@ -6323,7 +7045,16 @@
       "E-Veil",
       "Mnemonics"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -6352,7 +7083,16 @@
     "ware": [
       "Mnemonics"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -6386,7 +7126,16 @@
       "Stress Control",
       "Stabilizer"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -6421,7 +7170,16 @@
       "Mnemonics",
       "Skillware"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -6452,7 +7210,16 @@
       "Memory Lock",
       "Mnemonics"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -6486,7 +7253,16 @@
       "any)",
       "Skillware"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -6517,7 +7293,16 @@
       "Mnemonics",
       "Oracles"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -6547,7 +7332,16 @@
       "Mnemonics",
       "Oracles"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -6582,7 +7376,16 @@
       "Fault Tolerance",
       "Mnemonics"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [],
     "common_shape_adjustments": [],
@@ -6632,7 +7435,24 @@
       "Skillware",
       "Stress Control"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Enhanced Behavior (Helpful)",
+        "level": 2
+      },
+      {
+        "name": "Enhanced Behavior (Protective)",
+        "level": 2
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Overminds follow the core systems rules. Bonus from Multi-Tasking already incorporated."
@@ -6682,7 +7502,24 @@
       "Skillware",
       "Stress Control"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Enhanced Behavior (Helpful)",
+        "level": 2
+      },
+      {
+        "name": "Enhanced Behavior (Protective)",
+        "level": 2
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Sextons follow the core systems rules. Multi-Tasking bonus already incorporated."
@@ -6724,7 +7561,20 @@
       "Multi-Tasking",
       "Puppet Sock"
     ],
-    "morph_traits": [],
+    "morph_traits": [
+      {
+        "name": "Digital Speed",
+        "level": 1
+      },
+      {
+        "name": "Enhanced Behavior (Helpful)",
+        "level": 2
+      },
+      {
+        "name": "Exotic Morphology",
+        "level": 3
+      }
+    ],
     "common_extras": [],
     "notes": [
       "Wardens follow the core systems rules. Bonus from multi-tasking already incorporated."
